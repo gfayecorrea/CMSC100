@@ -1,4 +1,3 @@
-
 import { getDB } from '../../utils/db/index.js';
 
 export const getTodo = async (request, reply) => {
